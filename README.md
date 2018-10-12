@@ -1,2 +1,2 @@
 # hello-world
-test
+Like any other dev, trying out the git power :)
